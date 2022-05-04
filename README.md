@@ -1,6 +1,6 @@
 # ZNS
 
-Official Zero Naming Service repo.
+Official repository for Zero Name Service
 
 Hardhat commands:
 
