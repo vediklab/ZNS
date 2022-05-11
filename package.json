@@ -12,6 +12,8 @@
     "@ensdomains/buffer": "^0.1.0",
     "@ensdomains/eth-ens-namehash": "^2.0.15",
     "@openzeppelin/contracts": "^4.6.0",
-    "dotenv": "^16.0.0"
+    "dotenv": "^16.0.0",
+    "eth-ens-namehash": "^2.0.8",
+    "js-sha3": "^0.8.0"
   }
 }
